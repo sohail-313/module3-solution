@@ -1,3 +1,9 @@
 #myset{
-    background-color: gray;
+    background-color: rgb(43, 124, 144) !important;
+}
+.container{
+    text-align: center;
+}
+.box{
+    background-color: rgb(43, 124, 144);
 }
